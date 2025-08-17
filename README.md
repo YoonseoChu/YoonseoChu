@@ -1,4 +1,4 @@
-## Hi there 👋
+## 추윤서의 데이터분석
 
 <!--
 **YoonseoChu/YoonseoChu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
