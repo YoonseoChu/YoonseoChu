@@ -4,11 +4,11 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-        Studying Statistics through Data
+        📊 Studying Statistics through Data
     </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         안녕하세요, 추윤서입니다! 👋<br>
-        통계학과 경영학을 전공하며 📊 데이터 분석을 공부하고 있습니다.<br>
+        통계학과 경영학을 전공하며 데이터 분석을 공부하고 있습니다.<br>
     </div>
 </div>
 
